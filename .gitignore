@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Compiled binaries
+*.exe
+*.out
+03-cpu-scheduling/compara_planif
+
+# Disk images (download from the course repository)
+*.img
